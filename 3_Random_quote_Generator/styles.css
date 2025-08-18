@@ -1,0 +1,11 @@
+p {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #0d0101;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin-bottom: 10px;
+    height: 80px;
+    justify-content: center;
+}
